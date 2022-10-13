@@ -20,3 +20,45 @@ header h1{
     text-decoration: underline;
     font-size: 16px;
 }
+
+/*Second Section*/
+
+#travel_guide h1{
+    font-family: Verdana;
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+#travel_guide p{
+    font-family: Verdana;
+    color: gray; 
+}
+
+/*Third Section*/
+
+#coming_soon h1{
+    font-family: Verdana;
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+/*Third Section*/
+
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    color: gray;
+}
+
+/*Footern*/
+
+.container{
+    display: inline-block;
+}
+.icon{
+    display: inline-block;
+}
+.text{
+    display: inline-block;
+}
